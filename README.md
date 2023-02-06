@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7613150.svg)](https://doi.org/10.5281/zenodo.7613150)
+
 # Unlearning Graph Classifiers with Limited Data Resources
 A powerful and efficient method for graph unlearning when the size of training dataset is limited ([TheWebConf 2023 paper](https://arxiv.org/pdf/2211.03216.pdf)).
 
