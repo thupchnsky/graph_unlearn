@@ -1,7 +1,14 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7613150.svg)](https://doi.org/10.5281/zenodo.7613150)
 
 # Unlearning Graph Classifiers with Limited Data Resources
-A powerful and efficient method for graph unlearning when the size of training dataset is limited ([TheWebConf 2023 paper](https://arxiv.org/pdf/2211.03216.pdf)).
+A powerful and efficient method for graph unlearning when the size of training dataset is limited. Our accompany paper is as follows:
+
+- [TheWebConf 2023] [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216)
+
+This work is developed based on our prior work certified graph unlearning. Feel free to check this [repository](https://github.com/thupchnsky/sgc_unlearn) and the following accompany papers for more details.
+
+- [ICLR 2023] [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL)
+- [NeurIPS 2022 GLFrontier workshop] [Certified Graph Unlearning](https://openreview.net/forum?id=wCxlGc9ZCwi)
 
 # Package Information
 ```
